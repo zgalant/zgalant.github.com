@@ -4,10 +4,9 @@
 
 url: http://zgalant.github.com
 title: Zach Galant
-subtitle: I live in San Francisco and work on CodeHS.
+subtitle:
 author: Zach Galant
 simple_search:
-description: I'm a Stanford grad and diehard Mavs fan. I rant about STEM. Sports. Tech. Education. M.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

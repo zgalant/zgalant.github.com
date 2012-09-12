@@ -147,13 +147,23 @@ header#sidebar h2#subtitle {
 
 header#sidebar h4#description {
   font-weight: 200;
-  font-size: 13px;
-  line-height: 19px;
+  font-size: 15px;
+  line-height: 21px;
   color: #585C60;
   -webkit-font-smoothing: antialiased;
   max-width: none;
   margin-top: 5px;
   margin-bottom: 25px;
+}
+
+h4#description a {
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 21px;
+  // color: #585C60;
+  -webkit-font-smoothing: antialiased;
+  padding: 0px;
+  margin: 0px;
 }
 
 // Large screen
