@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Projects"
-comments: true
-sharing: true
+comments: false
+sharing: false
 footer: true
 ---
 

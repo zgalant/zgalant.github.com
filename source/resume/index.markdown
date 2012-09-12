@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "resume"
+title: "Resume"
 comments: false
 sharing: false
 footer: true
