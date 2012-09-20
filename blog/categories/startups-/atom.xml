@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Zach Galant]]></title>
-  <link href="http://zgalant.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: startups, | Zach Galant]]></title>
+  <link href="http://zgalant.github.com/blog/categories/startups-/atom.xml" rel="self"/>
   <link href="http://zgalant.github.com/"/>
   <updated>2012-09-19T23:42:43-07:00</updated>
   <id>http://zgalant.github.com/</id>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<p>Not all startup incubators are equal, but at the same time, there is no one best one.
 There are <a href="http://www.forbes.com/sites/tomiogeron/2012/04/30/top-tech-incubators-as-ranked-by-forbes-y-combinator-tops-with-7-billion-in-value/">lists</a>
 that try to rank them, but
-it all really depends on your needs and goals and your companies&#8217; needs and goals.
-Here I&#8217;ll outline the 4 &#8220;incubators&#8221; I&#8217;ve participated in and how they all have different goals.
-(Note: I&#8217;m using the word incubator. Some are not exactly incubators but accelerators. Whatever.)</p>
+it all really depends on your needs and goals and your companies' needs and goals.
+Here I'll outline the 4 "incubators" I've participated in and how they all have different goals.
+(Note: I'm using the word incubator. Some are not exactly incubators but accelerators. Whatever.)</p>
 
 <p>tldr:<br/>
 <strong>Lightspeed:</strong> Summer program for students to learn<br/>
@@ -51,29 +51,29 @@ they give $5000 to the company to use however they choose, and they take no equi
 <h4>My Experience</h4>
 
 <p>I did the Lightspeed program the summer after my Junior year. I worked on a website
-called <a href="http://zgalant.github.com/projects">Raunk</a> with four of my best friends. We lived in Menlo Park and got incredible
+called <a href="/projects">Raunk</a> with four of my best friends. We lived in Menlo Park and got incredible
 (normally insnanely expensive) office space on Sand Hill Road for free. We routinely
 spent 12+ hours in the office and developed a full fledged website.</p>
 
 <p>We ended up getting
-3000 signed up users and over 60,000 ratings, but the site wasn&#8217;t successful. We all
+3000 signed up users and over 60,000 ratings, but the site wasn't successful. We all
 went back to school in the fall, though we did some really cool machine learning and
 data visualization projects using ratings data we collected.</p>
 
 <p>Overall, I learned a lot about starting a company and building a website, and I
-didn&#8217;t sacrifice a summer of pay to do so. For me at that time, this program was
+didn't sacrifice a summer of pay to do so. For me at that time, this program was
 exactly what I needed.</p>
 
 <h3>Launchpad</h3>
 
-<p>This isn&#8217;t exactly an incubator. It&#8217;s a 10 week class at the d.school at Stanford
+<p>This isn't exactly an incubator. It's a 10 week class at the d.school at Stanford
 taught by Michael Dearing and Perry Klebahn. The goal is to push your boundaries
 in every way possible.</p>
 
-<p>They accepted 12 companies to the class and told us on the first day that we wouldn&#8217;t
+<p>They accepted 12 companies to the class and told us on the first day that we wouldn't
 all be there by the end. Most of the companies were at the very beginning stage, so
 the first assignment was very tough. We had to have a functional prototype in one
-week. Keep in mind, we&#8217;re all taking other classes at the same time. The next assignment
+week. Keep in mind, we're all taking other classes at the same time. The next assignment
 was to test our prototype with real users by just two days later.</p>
 
 <p>The class is called Launchpad, so it was no surprise that we were forced to launch
@@ -101,10 +101,10 @@ limits and learned a lot from it.</p>
 
 <h3>StartX</h3>
 
-<p>StartX&#8217;s goals are very different from the previous two programs. Their primary goal is
+<p>StartX's goals are very different from the previous two programs. Their primary goal is
 to create a community of founders who trust each other and can learn from each other.</p>
 
-<p>The StartX staff is the most hands on of any of the other programs I&#8217;ve done, and it&#8217;s
+<p>The StartX staff is the most hands on of any of the other programs I've done, and it's
 also the biggest program. There were 25 companies my session, and we all worked in
 the StartX office.</p>
 
@@ -114,14 +114,14 @@ deals on services from Microsoft, Github, Rackspace, etc. But, the key to the pr
 is that all of the companies are working together. They go through the highs and lows
 together. People are always around and willing to give feedback or just chat for a bit.</p>
 
-<p>While there&#8217;s a lot to be said about the &#8220;hacker house&#8221; as shown in the Social Network movie,
+<p>While there's a lot to be said about the "hacker house" as shown in the Social Network movie,
 the shared workspace is huge for building the sort of community StartX wants its founders to have.</p>
 
 <h3>Imagine K12</h3>
 
 <p>Since my company is an ed tech company, Imagine K12 makes a ton of sense for us.
 Not only are the partners knowledgeable about education, they have incredible
-connections to very influential people in the education space. We&#8217;ve had speakers
+connections to very influential people in the education space. We've had speakers
 from Knewton, Teach For America, New Schools Venture Fund, The Innosight Institute,
 and many more education specific companies.</p>
 
@@ -136,7 +136,7 @@ believe in the missions of their peers. s</p>
 
 <h3>Overall</h3>
 
-<p>I don&#8217;t know which one of the incubators was best for me. They each have
+<p>I don't know which one of the incubators was best for me. They each have
 their benefits and drawbacks, but they all have a really unique take on
 how to help entrepreneurs learn and succeed.</p>
 ]]></content>
