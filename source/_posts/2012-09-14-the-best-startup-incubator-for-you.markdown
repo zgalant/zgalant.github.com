@@ -107,7 +107,7 @@ the shared workspace is huge for building the sort of community StartX wants its
 
 
 ### Imagine K12
-Since my company is an ed tech company, Imagine K12 makes a ton of sense for us. 
+Since [CodeHS](http://codehs.com) is an ed tech company, Imagine K12 makes a ton of sense for us. 
 Not only are the partners knowledgeable about education, they have incredible 
 connections to very influential people in the education space. We've had speakers 
 from Knewton, Teach For America, New Schools Venture Fund, The Innosight Institute, 
@@ -120,10 +120,7 @@ all trying to talk to schools, and we can help each other do so.
 
 The incubator created a group of companies that are all trying to use technology 
 to improve education. This common goal fosters a great community of people who all 
-believe in the missions of their peers. s
+believe in the missions of their peers.
 
-
-### Overall
-I don't know which one of the incubators was best for me. They each have 
-their benefits and drawbacks, but they all have a really unique take on 
-how to help entrepreneurs learn and succeed.
+I think that Imagine K12 is starting a trend of vertical specific incubators. They 
+make sense for many verticals, so why stop at education?
