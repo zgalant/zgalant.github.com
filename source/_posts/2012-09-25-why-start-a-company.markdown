@@ -12,7 +12,7 @@ currently starting a company called [CodeHS](http://codehs.com).
 
 There are plenty of opportunities for me to work for awesome companies 
 (Emails with job offers actually annoy me now), but I chose to start 
-a company for a few reasons, which I'll outline here. 
+a company for a few main reasons, which I'll outline here. 
 
 If you're thinking of 
 starting a company, you should think about your reasons as well because it 
