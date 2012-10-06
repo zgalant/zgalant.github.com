@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: codehs | Zach Galant]]></title>
+  <title><![CDATA[Category: CodeHS | Zach Galant]]></title>
   <link href="http://zgalant.github.com/blog/categories/codehs/atom.xml" rel="self"/>
   <link href="http://zgalant.github.com/"/>
-  <updated>2012-09-25T22:45:48-07:00</updated>
+  <updated>2012-10-05T14:58:09-07:00</updated>
   <id>http://zgalant.github.com/</id>
   <author>
     <name><![CDATA[Zach Galant]]></name>
@@ -14,76 +14,49 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Why Start A Company]]></title>
-    <link href="http://zgalant.github.com/blog/2012/09/25/why-start-a-company/"/>
-    <updated>2012-09-25T16:48:00-07:00</updated>
-    <id>http://zgalant.github.com/blog/2012/09/25/why-start-a-company</id>
-    <content type="html"><![CDATA[<p>I recently graduated from Stanford with a degree in Computer Science, and I'm
-currently starting a company called <a href="http://codehs.com">CodeHS</a>.</p>
+    <title type="html"><![CDATA[Why I'm So Excited to be Making CodeHS]]></title>
+    <link href="http://zgalant.github.com/blog/2012/10/05/why-im-so-excited-to-be-making-codehs/"/>
+    <updated>2012-10-05T14:45:00-07:00</updated>
+    <id>http://zgalant.github.com/blog/2012/10/05/why-im-so-excited-to-be-making-codehs</id>
+    <content type="html"><![CDATA[<p>I was interested in coding long before I knew how to actually code anything.
+When I was in 4th grade, I started making my own StarCraft maps with custom
+triggers and events. When I was in 7th grade, I learned to make my own video games
+on the computer using a program called Multimedia Fusion.</p>
 
-<p>There are plenty of opportunities for me to work for awesome companies
-(Emails with job offers actually annoy me now), but I chose to start
-a company for a few main reasons, which I'll outline here.</p>
+<p>Through high school, I created my own independent study computer class in all
+12 trimesters over the four years, so I could learn what I wanted. I learned
+a little bit of a lot of things, but I was never able to get anywhere far on
+my own.</p>
 
-<p>If you're thinking of
-starting a company, you should think about your reasons as well because it
-really affects how you go about running your company.</p>
+<p>I learned a little bit of Maya for 3D Animation, the most basic Flash Actionscript,
+how to use Dreamweaver (worthless), Photoshop, Illustrator, and got through about
+1-2 chapters of a C++ book before getting stuck and stopping.</p>
 
-<h3>1. Work On My Own Schedule</h3>
+<p>I used tools like the Unreal Engine and Hammer Editor to make 3D games and
+messed around making little programs on my calculator during math class,
+but I never really learned to code until I went to college.</p>
 
-<p>This is big for me. I'm not a 9 to 5 (or 9 to 9) type. Sometimes, I want
-to work until 3am or wake up at noon, and I can do that. As long as I'm
-being productive, I can work whenever I want.</p>
+<p>This is why I'm so excited to be working on CodeHS. I had essentially been trying
+to learn to code since I was in 4th grade, but I never really learned until my
+freshman year of college.</p>
 
-<p>I'll especially enjoy this once Winter rolls around because I don't
-need to keep to a Monday-Friday schedule either.</p>
+<p>I'm making CodeHS for me 8 years ago.</p>
 
-<p>I'm a huge skier, and I spent the last four years skiing on weekends every
-winter with the <a href="http://skiing.stanford.edu">Stanford Ski Team</a>.</p>
+<p>I get so frustrated sometimes that I didn't have the resources to learn it myself,
+and I'm so excited to give current high schoolers the opportunity they deserve to
+learn what I tried to learn in high school.</p>
 
-<p>Now, I don't just have to wait for the weekend. If it's snowing on a Tuesday,
-I'll go skiing on Tuesday. I can avoid the lift lines that build up on
-weekends and enjoy the mountain to myself during the week.</p>
+<p>I had access to books and had the desire to learn, but never someone to help me.
+I had no idea where to start, and whatever I tried seemed too difficult and
+confusing.</p>
 
-<h3>2. Sense of Ownership</h3>
+<p>With CodeHS, I'm trying to fix all of the problems I had when I tried to learn.
+It's extremely easy to get started because you don't have to worry about
+downloading programs or IDEs and can just code in the browser. And most importantly,
+students get access to real people who help them out when they get stuck.</p>
 
-<p>Because I'm starting a company, not only do I actually own part of it in
-terms of stock shares, I actually feel like it belongs to me.</p>
-
-<p>When people have good things to say about CodeHS, it's really meaningful
-because I was heavily involved in making it.</p>
-
-<p>I'm proud of what we've made much more than had I been working on just a
-small cog of a much larger software project.</p>
-
-<p>Especially since I'm responsible for both high level and specific things,
-it's easy to show people what I've done and talk about it. There's something
-that I've done that any of my friends and family can understand and
-appreciate at some level.</p>
-
-<p>I also get to talk about what I'm working on. I'm gonna pick on my friend
-who works at Facebook for a second
-(if you're reading this, yeah, you. sorry haha!).</p>
-
-<p>She loves her job, but I went to have lunch with her one day this summer,
-and she couldn't tell me what she was working on. I feel like I put a lot
-of effort into what I'm working on, and it's fun to talk about with my
-friends and family, and I get to do that.</p>
-
-<h3>3. Variety</h3>
-
-<p>I do really enjoy sitting down and programming for an entire day, but I don't
-want to do that every day. Because I'm starting my own company, I get to
-work on so many other aspects of the company and really spend time doing a
-lot of different things.</p>
-
-<p>Some days I code, but some days I'm teaching. I get to talk to a lot of
-people. I'm doing sales, pitching our idea to people, strategizing our
-distribution model, and so much more.</p>
-
-<p>This helps me stay out of a routine that could bore me or get old. There are
-always new things that come up, and I get to change what I focus on all the
-time.</p>
+<p>These are all things I wish I had when I was in high school, and I love that
+I can help out kids like me do what I wasn't able to do.</p>
 ]]></content>
   </entry>
   
