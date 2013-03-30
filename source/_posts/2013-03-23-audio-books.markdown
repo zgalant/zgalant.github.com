@@ -3,7 +3,7 @@ layout: post
 title: "Audio Books"
 date: 2013-03-23 23:35
 comments: false
-categories: 
+categories: books, productivity
 ---
 
 I've decided I will start to listen to audio books. I really don't know why I haven't started doing this before because they really make perfect sense for me. I haven't read books for fun in years, and that's kind of a problem, so here's why audio books are the solution.
