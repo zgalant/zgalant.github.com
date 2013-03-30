@@ -7,9 +7,12 @@ categories: CodeHS
 ---
 
 I was interested in coding long before I knew how to actually code anything. 
-When I was in 4th grade, I started making my own StarCraft maps with custom 
+When I was in 4th grade, I started making my own 
+[StarCraft](http://www.amazon.com/gp/product/B00000DMAI/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00000DMAI&linkCode=as2&tag=zacgal-20) 
+maps with custom 
 triggers and events. When I was in 7th grade, I learned to make my own video games 
-on the computer using a program called Multimedia Fusion.
+on the computer using a program called 
+[Multimedia Fusion](http://www.amazon.com/gp/product/B000J0KP7O/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000J0KP7O&linkCode=as2&tag=zacgal-20).
 
 Through high school, I created my own independent study computer class in all 
 12 trimesters over the four years, so I could learn what I wanted. I learned 
@@ -28,7 +31,7 @@ This is why I'm so excited to be working on CodeHS. I had essentially been tryin
 to learn to code since I was in 4th grade, but I never really learned until my 
 freshman year of college. 
 
-I'm making CodeHS for me 8 years ago.
+###I'm making CodeHS for me 8 years ago.
 
 I get so frustrated sometimes that I didn't have the resources to learn it myself, 
 and I'm so excited to give current high schoolers the opportunity they deserve to 
