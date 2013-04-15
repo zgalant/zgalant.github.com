@@ -45,3 +45,5 @@ or late night motorcycles zooming by my window.
 
 My only regret was that I hadn't done this earlier in the year when there 
 was more snow.
+
+<img src="http://i.imgur.com/wAxFjtz.jpg" class="full-img" />
